@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="30px" viewBox="0 0 33 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>b_+</title>
+    <defs>
+        <path d="M8.92638338,-1.74681584e-16 L14.0736166,2.62022376e-16 C16.5909886,-2.00411345e-16 17.9409492,0.348096042 19.1631714,1.00174764 C20.3853936,1.65539924 21.3446008,2.61460639 21.9982524,3.83682861 C22.651904,5.05905083 23,6.40901145 23,8.92638338 L23,11.0736166 C23,13.5909886 22.651904,14.9409492 21.9982524,16.1631714 C21.3446008,17.3853936 20.3853936,18.3446008 19.1631714,18.9982524 C17.9409492,19.651904 16.5909886,20 14.0736166,20 L8.92638338,20 C6.40901145,20 5.05905083,19.651904 3.83682861,18.9982524 C2.61460639,18.3446008 1.65539924,17.3853936 1.00174764,16.1631714 C0.348096042,14.9409492 6.68037818e-17,13.5909886 -8.7340792e-17,11.0736166 L1.74681584e-16,8.92638338 C-1.33607564e-16,6.40901145 0.348096042,5.05905083 1.00174764,3.83682861 C1.65539924,2.61460639 2.61460639,1.65539924 3.83682861,1.00174764 C5.05905083,0.348096042 6.40901145,1.33607564e-16 8.92638338,-1.74681584e-16 Z" id="path-1"></path>
+        <filter x="-19.6%" y="-12.5%" width="139.1%" height="145.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0.5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-30.4%" y="-25.0%" width="160.9%" height="170.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="b_+" transform="translate(5, 3)">
+            <g id="Rectangle" filter="url(#filter-2)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                <use fill="#BFB1DE" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="1" opacity="0.352232144" font-family="Arial-BoldMT, Arial" font-size="4" font-weight="bold" fill="#000000">
+                <tspan x="17" y="16">1</tspan>
+            </text>
+            <text id="+" opacity="0.352232144" font-family="PingFangSC-Semibold, PingFang SC" font-size="9" font-weight="500" fill="#000000">
+                <tspan x="9" y="13">+</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

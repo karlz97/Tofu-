@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="20px" viewBox="0 0 23 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bt_ask_selected</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bt_ask_selected">
+            <rect id="Rectangle" stroke="#4BBEEC" stroke-width="1.5" fill="#94E1FF" x="0.75" y="0.75" width="21.5" height="18.5" rx="5"></rect>
+            <text id="4" opacity="0.400000006" font-family="Arial-BoldMT, Arial" font-size="4" font-weight="bold" fill="#000000">
+                <tspan x="17" y="16">3</tspan>
+            </text>
+            <text id=":" opacity="0.352232144" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" fill="#000000">
+                <tspan x="9" y="13">:</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
